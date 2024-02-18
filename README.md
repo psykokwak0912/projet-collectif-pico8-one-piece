@@ -23,5 +23,5 @@ Pull request are welcome. For major changes, plese open an issue first to discus
 Please make sure to update test as appropriate.
 
 ## Authors 
-Zoe, Guillaume and Sofiane. 
+Zoe (@zoeleca), Guillaume (@psykokwak0912)  and Sofiane (@SofianeKhi). 
 Students in Ada Tech School, PARIS. 
