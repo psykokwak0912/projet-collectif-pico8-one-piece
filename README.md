@@ -18,7 +18,7 @@ This is the first version of 'One Piece' game. The development has stopped for n
 The game is playable but there are some bugs when it comes to bullets and enemies. 
 
 ## Contributing
-Pull request are welcome. For major changes, plese open an issue first to discuss what you would like to change.
+Pull request are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update test as appropriate.
 
