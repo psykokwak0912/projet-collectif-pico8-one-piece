@@ -2,7 +2,7 @@
 One Piece is a game that you can play anywhere. It allows you to explore a map, collect coins and defeat enemies while playing the character Luffy. 
 Here is the first version of the game.
 
-![Alt screenshot-img](img/screenshot.png)
+![Alt screenshot-img](img/one-piece.p8.png)
 
 ## Installation && Use
 You can download the "one-piece.bin" folder. 
